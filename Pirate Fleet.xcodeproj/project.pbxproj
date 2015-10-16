@@ -35,6 +35,7 @@
 		A9DDAF261B9629AD00D64CD7 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DDAF251B9629AD00D64CD7 /* Functions.swift */; settings = {ASSET_TAGS = (); }; };
 		A9EAC0BB1B8FD833008AD77B /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EAC0BA1B8FD833008AD77B /* Player.swift */; };
 		A9EAC0BD1B8FDE98008AD77B /* Human.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EAC0BC1B8FDE98008AD77B /* Human.swift */; };
+		EA36C2801BD1C68E0057A287 /* PirateShipObjectDiagram.pdf.pdf in Resources */ = {isa = PBXBuildFile; fileRef = EA36C27F1BD1C68E0057A287 /* PirateShipObjectDiagram.pdf.pdf */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		A9DDAF251B9629AD00D64CD7 /* Functions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 		A9EAC0BA1B8FD833008AD77B /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		A9EAC0BC1B8FDE98008AD77B /* Human.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Human.swift; sourceTree = "<group>"; };
+		EA36C27F1BD1C68E0057A287 /* PirateShipObjectDiagram.pdf.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = PirateShipObjectDiagram.pdf.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		A9C2B44F1B8E2D38007983DB = {
 			isa = PBXGroup;
 			children = (
+				EA36C27F1BD1C68E0057A287 /* PirateShipObjectDiagram.pdf.pdf */,
 				A9C2B45A1B8E2D38007983DB /* Pirate Fleet */,
 				A9C2B4591B8E2D38007983DB /* Products */,
 			);
@@ -256,6 +259,7 @@
 			files = (
 				A9C2B4661B8E2D38007983DB /* LaunchScreen.storyboard in Resources */,
 				A9C2B4901B8E2D79007983DB /* Water.pdf in Resources */,
+				EA36C2801BD1C68E0057A287 /* PirateShipObjectDiagram.pdf.pdf in Resources */,
 				A9C2B4631B8E2D38007983DB /* Assets.xcassets in Resources */,
 				A9C2B48E1B8E2D79007983DB /* Mine.pdf in Resources */,
 				A9C2B48B1B8E2D79007983DB /* ShipEndDown.pdf in Resources */,
